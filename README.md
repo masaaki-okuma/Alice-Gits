@@ -6,3 +6,4 @@ Hello-World
 * これはGitHubをはじめて使うユーザの実験プロジェクトです。
 * GitHubとローカルのGitリポジトリを同期する練習をしています。
 * testa
+* testb
